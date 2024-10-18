@@ -1,4 +1,5 @@
-[Module Info] Surge Protection
-This module is integrated into the power supply to prevent power spikes from damaging the sensitive components of the MRI scanner. It contains circuit breakers and capacitors that absorb excess voltage and safely discharge it.
+[Module Name] Surge Protection
+[Module Info] This module is integrated into the power supply to prevent power spikes from damaging the sensitive components of the MRI scanner. It contains circuit breakers and capacitors that absorb excess voltage and safely discharge it.
+
 
 [Requirements]
